@@ -1,0 +1,12 @@
+# виртуалки
+venv/
+.venv/
+
+.env
+
+# кэш пайтона
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pkl
